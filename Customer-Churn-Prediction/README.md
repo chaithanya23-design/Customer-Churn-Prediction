@@ -77,7 +77,6 @@ This project predicts customer churn using Machine Learning and presents busines
 Customer-Churn-Prediction
 │
 ├── data
-├── notebooks
 ├── sql_queries
 ├── powerbi_dashboard
 ├── screenshots
@@ -88,7 +87,7 @@ Customer-Churn-Prediction
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here after uploading it to GitHub.)
+<img width="709" height="397" alt="customer_analysis_dashboard" src="https://github.com/user-attachments/assets/37a18532-9e78-430c-915d-f77eed6cab9c" />
 
 ---
 
